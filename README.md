@@ -26,11 +26,3 @@ The project documents the end-to-end lifecycle of a cloud identity compromise—
 
 ---
 
-## 📂 Repository Structure
-
-```text
-.
-├── README.md                           # Repository overview and documentation hub
-├── docs/
-│   ├── 01-incident-response-summary.md  # Detailed IR timeline, root cause, and initial containment
-│   └── 02-cybersecurity-risk-assessment.md # Comprehensive posture review and remediation roadmap
